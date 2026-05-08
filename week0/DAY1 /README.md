@@ -8,15 +8,6 @@ It is a software system that helps companies manage their customers, sales, comm
 
 It helps businesses improve relationship and increase sales efficiency
 
-### Simple Example
-Imagine a company has thousands of customers.  
-A CRM helps them:
-- Store customer information
-- Track calls and emails
-- Manage sales deals
-- Provide customer support
-- Build better relationships with customers
-
 CRM basically helps businesses work smarter and stay organized.
 
 ---
